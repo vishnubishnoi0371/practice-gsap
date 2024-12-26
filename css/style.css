@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+.main-box{
+    background: #000;
+    width: 500px;
+    overflow-x: scroll !important;
+    overflow-y: auto !important;
+}
+.second-box{
+    background: #791919;
+    height: 100vh;
+}
+.top-box{
+    width: 1920px;
+}
